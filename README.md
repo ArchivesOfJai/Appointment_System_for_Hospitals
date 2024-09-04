@@ -1,2 +1,2 @@
-** Appointment booking system for Hospitals
+# Appointment booking system for Hospitals
 
