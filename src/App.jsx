@@ -1,6 +1,6 @@
 import Navbar from './components/Navbar/Navbar';
 import './App.css'
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import { HashRouter as Router, Route, Routes } from 'react-router-dom';
 import Home from './components/HomePage/Home';
 import Services from './components/Services/Services';
 import FindDoctor from './components/FindDoctor/FindDoctor';
