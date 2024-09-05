@@ -1,0 +1,10 @@
+
+.logoContainer img{
+    margin-right: 15px;
+}
+.logoContainer span {
+  color: #2f80ed;
+  font-family: "Inter", system-ui;
+  font-optical-sizing: auto;
+  font-size: 1.3rem;
+}
